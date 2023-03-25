@@ -1,2 +1,1 @@
-# leetcode-75
-LeetCode 75 Study Plan
+# Blind 75 LettCode Questions
