@@ -1,4 +1,4 @@
-package Array.easy;
+package Array;
 
 public class FindPivotIndex {
 
